@@ -1,0 +1,40 @@
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+.salmon {
+  background-color: #ee6e73;
+}
+
+.salmon-text {
+  color: #ee6e73;
+}
+
+
+.royal {
+  background-color: #01579B;
+}
+
+.royal-text {
+  color: #0167B5;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Roboto', sans-serif;
+}
+
+.brand-logo {
+  font-family: 'Shadows Into Light', cursive;
+}
+.square-img {
+  width: 128px;
+
+}
