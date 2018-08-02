@@ -30,6 +30,9 @@ body {
 h1, h2, h3, h4, h5 {
   font-family: 'Roboto', sans-serif;
 }
+h1 {
+  font-size: 72pt;
+}
 
 .brand-logo {
   font-family: 'Shadows Into Light', cursive;
@@ -40,6 +43,26 @@ h1, h2, h3, h4, h5 {
 }
 
 .wide-img {
-  width: 500px;
+  width: 50%;
+  height: auto;
+}
+
+.carousel-item {
+  height: auto;
+}
+
+
+p {
+  line-height: 100%;
+}
+
+.fix-icon {
+  position: absolute;
+  right: 12px;
+  top: 12px;
+}
+
+.prof-pic {
+  width: 25%;
   height: auto;
 }
